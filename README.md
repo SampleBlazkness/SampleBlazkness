@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SampleBlazkness
 - 👀 I’m interested in python3, minecraft and music
-- 🌱 I’m currently learning using deepseekR1 to code
+- 🌱 I’m currently learning using deepseekV3 to code
 - 💞️ I’m looking to collaborate on ...
 - 📫 Email: SampleBlazkness@outlook.com
 - 😄 Pronouns: patient
